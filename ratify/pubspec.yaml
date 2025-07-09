@@ -40,7 +40,6 @@ dependencies:
   table_calendar: ^3.0.9
   path_provider: ^2.1.2  # Or latest
   image: ^4.1.7           # In case you haven't added it yet
-  http: ^0.13.6
 
 dependency_overrides:
   google_mlkit_smart_reply:
