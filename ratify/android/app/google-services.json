@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264369393535",
+    "project_id": "ratify-server",
+    "storage_bucket": "ratify-server.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264369393535:android:fe17005ba47d035885144a",
+        "android_client_info": {
+          "package_name": "com.example.ratify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264369393535-hgsst664u2v5a3ggudp9o5amvveald79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqpaZSReX7_mcUBwLcN35WmSYg7YcnM8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264369393535-hgsst664u2v5a3ggudp9o5amvveald79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
